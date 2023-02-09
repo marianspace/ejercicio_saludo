@@ -1,0 +1,10 @@
+setup.py
+saludos/__init__.py
+saludos.egg-info/PKG-INFO
+saludos.egg-info/SOURCES.txt
+saludos.egg-info/dependency_links.txt
+saludos.egg-info/top_level.txt
+saludos/adios/__init__.py
+saludos/adios/adios.py
+saludos/hola/__init__.py
+saludos/hola/saludo.py
