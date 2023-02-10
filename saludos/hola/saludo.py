@@ -3,4 +3,4 @@ def saludar():
 
 class Hola():  
       def __init__(self):
-        print('Digo Hola funcion __init')
+        print('Digo Hola')
